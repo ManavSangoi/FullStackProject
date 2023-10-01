@@ -1,0 +1,24 @@
+.carousalimg{
+    height: 400px;
+    width: 500px;
+}
+
+
+.carousel-item {
+    height: 300px;
+    width: 700px;
+  }
+  
+.carousel-item img {
+      
+      min-height: 300px;
+      height: inherit;
+      width: 10%;
+  }
+
+  .carousaltopdiv{
+    height: 600px;
+    width: 1000px;
+    border: 5px solid black;
+    padding: 10px;
+  }
